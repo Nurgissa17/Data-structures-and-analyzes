@@ -1,0 +1,5 @@
+n,Insert Time (ns),Insert Comparisons,Extract Time (ns),Extract Comparisons,Non-decreasing,Insert Complexity,Extract Complexity
+100,19420,206,43620,863,true,Theta(log n),Theta(log n)
+1000,56800,2326,128900,14996,true,Theta(log n),Theta(log n)
+10000,559220,22753,1255360,216531,true,Theta(log n),Theta(log n)
+100000,1805800,227857,10118400,2831426,true,Theta(log n),Theta(log n)

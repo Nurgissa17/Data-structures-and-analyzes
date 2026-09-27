@@ -1,0 +1,5 @@
+n,Dynamic Array Time (ns),Dynamic Array Comparisons,Linked List Time (ns),Linked List Comparisons,Dynamic Array Complexity,Linked List Complexity
+100,489260,100000,403480,100000,Theta(n),Theta(n)
+1000,1112800,1000000,2121740,1000000,Theta(n),Theta(n)
+10000,2686940,10000000,19102640,10000000,Theta(n),Theta(n)
+100000,24550160,100000000,171792540,100000000,Theta(n),Theta(n)
